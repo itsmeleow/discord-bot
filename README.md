@@ -1,5 +1,5 @@
 # Discord Bot
-Simple discord bot for moderation. Built on [discord.py](https://pypi.org/project/discord.py/).
+A simple discord bot for moderation. Built on [discord.py](https://pypi.org/project/discord.py/).
 
 ## Features
 Here are some commands. Command prefix can be changed my replacing value inside of command_prefix.
