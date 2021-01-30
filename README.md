@@ -24,4 +24,4 @@ Other
 5. Run `python main.py` to start your bot!
 
 ## Help
-Check if dependencies are properly installed discord.py. If not, run `pip install discord.py` or read more about [discord.py here](https://pypi.org/project/discord.py/)
+Check if dependencies are properly installed discord.py. If not, run `pip install discord.py` or read more about discord.py [here](https://pypi.org/project/discord.py/)
