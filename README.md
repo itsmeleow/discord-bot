@@ -14,7 +14,7 @@ Moderation
 Other
 - `.ping` -> simple ping command to test if bot is working or check client latency
 - `.av` -> returns clients discord avatar
-- `.ball [yes/no question]` -> returns yes/no replys
+- `.ball [yes/no question]` -> returns yes/no reply
 
 ## Setup - Windows
 1. Install [Python](https://www.python.org/)
