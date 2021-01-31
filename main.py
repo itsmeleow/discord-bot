@@ -94,9 +94,9 @@ async def ping(ctx):
 @client.command()
 async def ball(ctx, *, question):
     responses = [
-                'It is certain.','Without a doubt','Yes - definitely.','Most likely.','Yes.',
+                'Certainly.','Without a doubt','Yes, definitely.','Most likely.','Yes.',
                 'Sure.','Ask again later.','Cannot predict now.','My reply is no.',
-                'My sources say no.','Very doubtful.','Outlooks not good.','No.','Ask again.'
+                'Sources say no.','Very doubtful.','No.','Ask again.'
                 ]
     embed = discord.Embed(
         title=random.choice(responses),
